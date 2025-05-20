@@ -86,6 +86,3 @@ if __name__ == "__main__":
     main_window.show()
     sys.exit(app.exec_())
 
-
-
-# todo 把这里写成一个类，然后继承QDockWidget，类名为DockWidget

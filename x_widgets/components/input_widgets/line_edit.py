@@ -50,6 +50,3 @@ border-bottom: 1px solid rgba(0, 0, 0, 13);
         """设置输入框边框半径"""
         self._borderRadius = radius
         self._updateStyleSheet()
-
-# todo 模仿combo_box.py,完成我的代码
-# todo 我要任何东西都不修改，现在的qss是啥，就是啥
