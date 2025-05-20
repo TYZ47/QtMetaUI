@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>icon/NumberBox.png</file>
+    <file>icon/LinkButton.png</file>
+    <file>icon/LineEdit.png</file>
+    <file>icon/Border.png</file>
+    <file>icon/Line.png</file>
+    <file>icon/VerticalLine.png</file>
+    <file>icon/Table.png</file>
+    <file>icon/Label.png</file>
+    <file>icon/ComboBox.png</file>
+    <file>icon/RadioButton.png</file>
+    <file>icon/Button.png</file>
+  </qresource>
+  <qresource prefix="widget">
+    <file>widget/accept.svg</file>
+    <file>widget/PartialAccept.svg</file>
+    <file>widget/dock_close.png</file>
+    <file>widget/dock_fix.png</file>
+    <file>widget/dock_hover.png</file>
+    <file>widget/SpinBoxDown.png</file>
+    <file>widget/SpinBoxDownDisabled.png</file>
+    <file>widget/SpinBoxUp.png</file>
+    <file>widget/SpinBoxUpDisabled.png</file>
+    <file>widget/down.png</file>
+    <file>widget/up.png</file>
+    <file>widget/ComboBox.png</file>
+    <file>widget/ComboBoxDisabled.png</file>
+  </qresource>
+</RCC>

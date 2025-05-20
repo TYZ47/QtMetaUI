@@ -1,0 +1,1 @@
+from x_widgets._rc import images_rc
